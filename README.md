@@ -1,8 +1,18 @@
 [Capstone Design 작품]
 # 컴퓨터 스펙 비교 사이트
 - 사용자의 컴퓨터 스펙 정보를 자동으로 가져와서 여러 스펙과 비교할 수 있는 사이트
+<details>
+<summary>
+  <strong>Introduction</strong>
+</summary>
+   <br>
+사용자의 컴퓨터 스펙(CPU, GPU, RAM) 정보를 자동으로 가져와 알려주고, 다른 제품들과 비교하여 수준을 파악할 수 있으며, <br>
+  사용자가 궁금한 제품을 직접 선택하여 확인할 수도 있다. <br>
+CPU와 GPU 간의 병목 현상 여부를 확인할 수 있고 그에 맞는 업그레이드할 제품을 추천해주기도 한다.<br>
+또한 자신의 스펙 또는 선택한 스펙으로 실행 가능한 게임을 확인할 수 있다.
+</details>
 
-### 사용 언어
+### Development
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### AWS를 사용하여 구현하였지만 현재는 AWS 미연동
@@ -19,7 +29,7 @@
 
 <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> <strong>Expected Effect</strong>
+  <strong>Expected Effect</strong>
 </summary>
    <br>
    다양한 제품의 스펙을 한 눈에 비교할 수 있는
