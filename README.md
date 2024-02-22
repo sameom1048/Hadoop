@@ -13,6 +13,9 @@
 
 #### 사이트의 HowToView 부분에서 어떻게 이용할 수 있는지 알 수 있음
 
+#### System Architecture
+![image](https://github.com/sameom1048/demo/assets/55376152/3784b61f-6513-4a77-99fd-5fa0aa43e4d6)
+
 <details>
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> Expected Effect
