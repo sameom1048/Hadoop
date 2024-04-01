@@ -1,4 +1,6 @@
-package com.hadoop.demo.Controller;
+// GameList 크롤링 파일
+/*
+package com.hadoop.demo.Controller.Crawling;
 
 import com.hadoop.demo.Model.GameList;
 import com.hadoop.demo.Model.GameListOrigin;
@@ -196,4 +198,4 @@ public class GameListCrawlingController {
             }
         }
     }
-}
+}*/
