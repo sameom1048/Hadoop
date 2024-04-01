@@ -1,6 +1,5 @@
 package com.hadoop.demo.Service;
 
-import com.hadoop.demo.Model.GameList;
 import com.hadoop.demo.Model.GameListOrigin;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
